@@ -1,4 +1,4 @@
-Ximera 2.0: Compiling in the browser
+* Ximera 2.0: Compiling in the browser
 
 Ximera is a free (open-source) authoring framework based on LaTeX. It
 allows one to simultaneity write a traditional PDF document that can
@@ -7,15 +7,23 @@ demonstrate the upcoming Ximera 2.0, where the compilation of the
 online version happens automatically in the users web browser.
 
 
+** What is Ximera?
 
-What is Ximera?
+https://ximera.osu.edu/introduction
 
-Authoring tools for creating interactive texts, 
-
-Goal of Ximera?
-
- Separation of content and deployment
+Authoring tools for creating interactive texts with a gradebook
+back-end.
 
 
+** Goal of Ximera?
+
+https://ximera.osu.edu/introduction/gettingStarted/whatIsXimera/whatIsXimera
+
+Separation of content and deployment by writing in LaTeX
 
 
+** Ximera 2.0 -- we've been expecting you
+
+https://tex.rossprogram.org/ximera2talk
+
+https://ximera.cloud/XimeraProject/about/overview
