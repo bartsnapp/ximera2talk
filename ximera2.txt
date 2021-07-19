@@ -8,4 +8,9 @@ online version happens automatically in the users web browser.
 
 
 
-What 
+What is Ximera?
+
+
+Separation of content and deployment
+
+
