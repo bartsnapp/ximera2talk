@@ -1,0 +1,11 @@
+Ximera 2.0: Compiling in the browser
+
+Ximera is a free (open-source) authoring framework based on LaTeX. It
+allows one to simultaneity write a traditional PDF document that can
+be compiled as an interactive website.  In this talk, we'll
+demonstrate the upcoming Ximera 2.0, where the compilation of the
+online version happens automatically in the users web browser.
+
+
+
+What 
