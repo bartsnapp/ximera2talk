@@ -1,5 +1,11 @@
 * Ximera 2.0: Compiling in the browser
 
+The Ohio State University
+-- Jim Fowler and Bart Snapp
+fowler.291@osu.edu
+snapp.14@osu.edu
+
+
 Ximera is a free (open-source) authoring framework based on LaTeX. It
 allows one to simultaneity write a traditional PDF document that can
 be compiled as an interactive website.  In this talk, we'll
